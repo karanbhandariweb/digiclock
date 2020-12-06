@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/digiclock/static/css/main.18ff3fb8.chunk.css",
-    "main.js": "/digiclock/static/js/main.579e1090.chunk.js",
-    "main.js.map": "/digiclock/static/js/main.579e1090.chunk.js.map",
+    "main.js": "/digiclock/static/js/main.f549caeb.chunk.js",
+    "main.js.map": "/digiclock/static/js/main.f549caeb.chunk.js.map",
     "runtime-main.js": "/digiclock/static/js/runtime-main.b7dc7d26.js",
     "runtime-main.js.map": "/digiclock/static/js/runtime-main.b7dc7d26.js.map",
     "static/js/2.9d1805f4.chunk.js": "/digiclock/static/js/2.9d1805f4.chunk.js",
     "static/js/2.9d1805f4.chunk.js.map": "/digiclock/static/js/2.9d1805f4.chunk.js.map",
     "index.html": "/digiclock/index.html",
-    "precache-manifest.7704cd0964c1c838d0fb3718c5f742a1.js": "/digiclock/precache-manifest.7704cd0964c1c838d0fb3718c5f742a1.js",
+    "precache-manifest.d61ac34676d6e19514097643a0bf3273.js": "/digiclock/precache-manifest.d61ac34676d6e19514097643a0bf3273.js",
     "service-worker.js": "/digiclock/service-worker.js",
     "static/css/main.18ff3fb8.chunk.css.map": "/digiclock/static/css/main.18ff3fb8.chunk.css.map",
     "static/js/2.9d1805f4.chunk.js.LICENSE.txt": "/digiclock/static/js/2.9d1805f4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b7dc7d26.js",
     "static/js/2.9d1805f4.chunk.js",
     "static/css/main.18ff3fb8.chunk.css",
-    "static/js/main.579e1090.chunk.js"
+    "static/js/main.f549caeb.chunk.js"
   ]
 }
