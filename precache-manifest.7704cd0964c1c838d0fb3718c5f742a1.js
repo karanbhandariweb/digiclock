@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d76cf72898c8c9f53496e583a91562a5",
+    "revision": "df0fb01acd245eeb1082e5ecda612834",
     "url": "/digiclock/index.html"
   },
   {
-    "revision": "4dfdd3abf89095fb2e2d",
-    "url": "/digiclock/static/css/main.19c0c130.chunk.css"
+    "revision": "cca67487fc78847dd4f1",
+    "url": "/digiclock/static/css/main.18ff3fb8.chunk.css"
   },
   {
     "revision": "3b0fa0992a79527b0b98",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digiclock/static/js/2.9d1805f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4dfdd3abf89095fb2e2d",
-    "url": "/digiclock/static/js/main.f549caeb.chunk.js"
+    "revision": "cca67487fc78847dd4f1",
+    "url": "/digiclock/static/js/main.579e1090.chunk.js"
   },
   {
     "revision": "19cc78ca28535d62a360",
