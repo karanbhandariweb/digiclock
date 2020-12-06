@@ -6,7 +6,7 @@ const App = ()=>{
    
     return(
         <>
-        <a href="https://karanbhandariweb.github.io/portfolio" class="previous round">&#8249;</a>
+       
         <Myclck/>    
         </>
     );
